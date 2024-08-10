@@ -17,7 +17,7 @@
 			<li>RangedHeavy</li>
 		</weaponClasses>
 		<statBases>
-			<WorkToMake>27500</WorkToMake>
+			<WorkToMake>29000</WorkToMake>
 			<SightsEfficiency>2.18</SightsEfficiency>
 			<ShotSpread>0.2</ShotSpread>
 			<SwayFactor>1.61</SwayFactor>
@@ -32,7 +32,7 @@
 		<generateCommonality>0.5</generateCommonality>
 		<costList>
 			<Steel>75</Steel>
-			<ComponentIndustrial>5</ComponentIndustrial>
+			<ComponentIndustrial>6</ComponentIndustrial>
 		</costList>
 		<weaponTags>
 			<li>GunHeavy</li>
@@ -45,7 +45,7 @@
 				<defaultProjectile>Bullet_84x246mmR_HEAT</defaultProjectile>
 				<ai_IsBuildingDestroyer>true</ai_IsBuildingDestroyer>
 				<warmupTime>2.05</warmupTime>
-				<range>68</range>
+				<range>59</range>
 				<minRange>8</minRange>
 				<targetParams>
 					<canTargetLocations>true</canTargetLocations>
