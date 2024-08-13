@@ -45,7 +45,7 @@
 				<defaultProjectile>Bullet_84x246mmR_HEAT</defaultProjectile>
 				<ai_IsBuildingDestroyer>true</ai_IsBuildingDestroyer>
 				<warmupTime>2.05</warmupTime>
-				<range>59</range>
+				<range>55</range>
 				<minRange>8</minRange>
 				<targetParams>
 					<canTargetLocations>true</canTargetLocations>
