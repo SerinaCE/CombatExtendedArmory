@@ -13,7 +13,7 @@
 			<graphicClass>Graphic_Single</graphicClass>
 			<drawSize>(1.2,1.2)</drawSize>
 		</graphicData>
-		<soundInteract>Interact_Rifle</soundInteract>
+		<soundInteract>CE_Sound_GarandPing</soundInteract>
 		<statBases>
 			<WorkToMake>15000</WorkToMake>
 			<SightsEfficiency>1</SightsEfficiency>
@@ -37,7 +37,7 @@
 				<warmupTime>1.1</warmupTime>
 				<range>55</range>
 				<soundCast>Shot_CE_BattleRifle</soundCast>
-				<soundCastTail>GunTail_Heavy</soundCastTail>
+				<soundCastTail>CE_Sound_GarandPing</soundCastTail>
 				<muzzleFlashScale>9</muzzleFlashScale>
 			</li>
 		</verbs>
