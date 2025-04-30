@@ -70,6 +70,7 @@
 			<li>IndustrialGunAdvanced</li>
 			<li>CE_SMG</li>
 			<li>CE_AI_BROOM</li>
+			<li>CE_OneHandedWeapon</li>
 		</weaponTags>
 		<tools>
 			<li Class="CombatExtended.ToolCE">
